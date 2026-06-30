@@ -62,13 +62,10 @@ En este proyecto utilicé:
 - Parámetros y valores de retorno
 - Impresión de reportes en consola
 
-## Posibles mejoras
+### Próximas mejoras (Python Intermedio)
 
-- Permitir ingresar trabajadores desde el teclado.
-- Leer la información desde un archivo CSV o Excel.
-- Calcular el pago de horas extras.
-- Mostrar estadísticas generales del equipo.
-- Exportar el reporte a un archivo.
+* **Leer la información desde un archivo CSV o Excel:** Para no tener los datos fijos en el código y poder procesar listas grandes de trabajadores de forma automática.
+* **Exportar el reporte a un archivo:** Para guardar el reporte final en un documento de texto o Excel en la computadora en lugar de solo mostrarlo en la terminal.
 
 ## Estado del proyecto
 
